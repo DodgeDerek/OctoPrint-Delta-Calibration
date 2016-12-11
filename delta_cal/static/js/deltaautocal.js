@@ -391,7 +391,7 @@ $(function () {
               break;
 
             case SMC_MAX_V2:
-              bedRadius = 130;
+              bedRadius = 135;
               break;
 
             case SMC_ERIS:
@@ -399,7 +399,7 @@ $(function () {
               break;
 
             case SMC_MAX_V3:
-              bedRadius = 130;
+              bedRadius = 135;
               break;
 
             case SMC_H2:
